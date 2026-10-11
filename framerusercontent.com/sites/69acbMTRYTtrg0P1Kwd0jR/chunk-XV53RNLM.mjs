@@ -1,0 +1,2 @@
+function e(a,t){return{description:"As a User Experience designer, I have spent the past three years designing B2B SaaS products, building brands, and developing products. My background in commerce enhances my understanding of both products and their associated businesses.",favicon:"/framerusercontent.com/assets/r0BhDgPDb3bHCBsgNhEFA2lFgkM.png",robots:"max-image-preview:large",socialImage:"/framerusercontent.com/assets/l2dbjl57206Yuw7maaQruw.png",title:"Ragavan Portfolio"}}export{e as a};
+//# sourceMappingURL=chunk-XV53RNLM.mjs.map
